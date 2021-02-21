@@ -1,2 +1,3 @@
 # Image-Colorization-w-KNN
- Image Colorization by using Machine Learning Algorithm-KNN
+
+![plot](Example-based colorization/1.png)
