@@ -34,7 +34,7 @@ And you will apply your ML model to given gray scale image to obtain a colored v
 
 So this image is unknown true color image (also known as groundtuth)
 
-### Simple Example
+### _Simple Example_
 
 You are given a grayscale image: p007, b_target.png
 
