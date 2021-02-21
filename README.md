@@ -91,7 +91,7 @@ So, you are training and testing on same data. If your method is not able to pro
 - Execution speed is quite important, for example KNN and SVM can be quite slow. There are ways to deal with this computational burden, think about it
 - Your method can produce a color version of a pixel directly, or you can determine the color of a pixel in an iterative manner (i.e. initialy pixel is [gray_i, gray_i, gray_i] then iteratively it converges to [red_i, green_i, blue_i]
 
-## Contributers
+## Contributors
 
 - Ahmet Oğuz Şenocak -> https://github.com/ahmetoguz1
 - Aytaç Öntürk -> https://github.com/aytaconturk
