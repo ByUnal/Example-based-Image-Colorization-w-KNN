@@ -32,6 +32,11 @@ And you will apply your ML model to given gray scale image to obtain a colored v
 
 ![5](https://user-images.githubusercontent.com/43930582/108631530-64732800-747b-11eb-93b2-12e6bbd61126.png)
 
+## Contributers
+
+- Ahmet Oğuz Şenocak -> https://github.com/ahmetoguz1
+- Aytaç Öntürk -> https://github.com/aytaconturk
+- Yavuz Akın -> https://github.com/yavuzakin
 So this image is unknown true color image (also known as groundtuth)
 
 ### _Simple Example_
