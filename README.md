@@ -32,13 +32,6 @@ And you will apply your ML model to given gray scale image to obtain a colored v
 
 ![5](https://user-images.githubusercontent.com/43930582/108631530-64732800-747b-11eb-93b2-12e6bbd61126.png)
 
-## Contributers
-
-- Ahmet Oğuz Şenocak -> https://github.com/ahmetoguz1
-- Aytaç Öntürk -> https://github.com/aytaconturk
-- Yavuz Akın -> https://github.com/yavuzakin
-So this image is unknown true color image (also known as groundtuth)
-
 ### _Simple Example_
 
 You are given a grayscale image: p007, b_target.png
@@ -96,3 +89,9 @@ So, you are training and testing on same data. If your method is not able to pro
 - Execution speed is quite important, for example KNN and SVM can be quite slow. There are ways to deal with this computational burden, think about it
 - Your method can produce a color version of a pixel directly, or you can determine the color of a pixel in an iterative manner (i.e. initialy pixel is [gray_i, gray_i, gray_i] then iteratively it converges to [red_i, green_i, blue_i]
 
+## Contributers
+
+- Ahmet Oğuz Şenocak -> https://github.com/ahmetoguz1
+- Aytaç Öntürk -> https://github.com/aytaconturk
+- Yavuz Akın -> https://github.com/yavuzakin
+So this image is unknown true color image (also known as groundtuth)
